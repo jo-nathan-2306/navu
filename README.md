@@ -17,7 +17,7 @@ Real-time hands-free computer vision interface that tracks your tongue tip to sm
 Using your hands to move a mouse is way too conventional, boring, and efficient. Why use fingers or trackpads when your tongue can navigate Windows, browse the web, open applications, and execute double-clicks without touching any hardware?
 
 ### The Solution (that nobody asked for)
-A non-contact vision algorithm powered by MediaPipe 3D Face Landmark tracking and OpenCV HSV/LAB color space segmentation. It maps sub-pixel tongue displacements to OS screen coordinates (`User32.SetCursorPos`) with exponential moving average (EMA) smoothing and triggers instant native Windows double-clicks upon mouth closure!
+A non-contact vision algorithm powered by MediaPipe 3D Face Landmark tracking and OpenCV HSV/LAB color space segmentation. It maps sub-pixel tongue displacements to OS screen coordinates (`User32.SetCursorPos`) with exponential moving average (EMA) smoothing and triggers instant native Windows double-clicks upon mouth closure
 
 ---
 
