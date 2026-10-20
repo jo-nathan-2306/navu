@@ -3,7 +3,7 @@
 
 # Navu
 ![](presentation.jpeg)
-
+## Project Update: Featured in TinkerHub's Useless Projects top 250 projects!
 ## Basic Details
 ### Team Name: p3ak
 
@@ -12,6 +12,7 @@
 
 ### Project Description
 Real-time hands-free computer vision interface that tracks your tongue tip to smoothly control the system mouse cursor, with automatic cursor position locking and native Windows double-clicks when you close your mouth.
+
 
 ### The Problem (that doesn't exist)
 Using your hands to move a mouse is way too conventional, boring, and efficient. Why use fingers or trackpads when your tongue can navigate Windows, browse the web, open applications, and execute double-clicks without touching any hardware?
